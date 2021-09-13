@@ -75,15 +75,15 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tauri-apps/api@^1.0.0-beta.8":
+"@tauri-apps/api@1.0.0-beta.8":
   version "1.0.0-beta.8"
-  resolved "https://registry.yarnpkg.com/@tauri-apps/api/-/api-1.0.0-beta.8.tgz#a43dc4a4515148f29bfb616db85445b771e84f78"
-  integrity sha512-a56lXB7XvQ4+fKtT0pxpkjTSKhyrQ1Vmjyvt2ox3mT9xw3l7s8IOKHJ1WuqW6TA6xdoy3Cyja3Z3prw8hflS7g==
+  resolved "https://registry.nlark.com/@tauri-apps/api/download/@tauri-apps/api-1.0.0-beta.8.tgz#a43dc4a4515148f29bfb616db85445b771e84f78"
+  integrity sha1-pD3EpFFRSPKb+2FtuFRFt3HoT3g=
 
-"@tauri-apps/cli@^1.0.0-beta.10":
+"@tauri-apps/cli@1.0.0-beta.10":
   version "1.0.0-beta.10"
-  resolved "https://registry.yarnpkg.com/@tauri-apps/cli/-/cli-1.0.0-beta.10.tgz#753a011d6fbbf1a903e18593b5b99d7dee8ccc5b"
-  integrity sha512-T0cvV5Y5vCeEw6tQ7DfuGhXxxe26AwW9i3oYT/AQZlwrLG9Xk02Pp0/lKqd/WeddE3X/IFfSm8YMRCz3VElIWQ==
+  resolved "https://registry.nlark.com/@tauri-apps/cli/download/@tauri-apps/cli-1.0.0-beta.10.tgz#753a011d6fbbf1a903e18593b5b99d7dee8ccc5b"
+  integrity sha1-dToBHW+78akD4YWTtbmdfe6MzFs=
   dependencies:
     "@tauri-apps/toml" "2.2.4"
     chalk "4.1.2"
@@ -260,10 +260,10 @@
   resolved "https://registry.yarnpkg.com/@vuetify/loader-shared/-/loader-shared-1.1.1.tgz#e04d4f60fe3593c710039c157ddd5adc103c5f9b"
   integrity sha512-JUs+8dBr64M/Vgndu9k6LBWzuAj43CrwVp6R94XMY/p7j5MNKsGYG1MSxqxwFN6IXYTxPkclgWZVv2gH+PulUg==
 
-"@vuetify/vite-plugin@^1.0.0-alpha.2":
+"@vuetify/vite-plugin@1.0.0-alpha.2":
   version "1.0.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/@vuetify/vite-plugin/-/vite-plugin-1.0.0-alpha.2.tgz#1f434f298621f0b3404defeb41512a9e07d9e76b"
-  integrity sha512-5A0bnkrq+xG4ltpeasHEo0xqH5szR/khbt+Gf3wZwMT7Az7mpOo8L1zAK/K1r3GtSGwl0AUg6yfDsmVdXXG/gg==
+  resolved "https://registry.nlark.com/@vuetify/vite-plugin/download/@vuetify/vite-plugin-1.0.0-alpha.2.tgz#1f434f298621f0b3404defeb41512a9e07d9e76b"
+  integrity sha1-H0NPKYYh8LNATe/rQVEqngfZ52s=
   dependencies:
     "@vuetify/loader-shared" "^1.1.1"
     mkdirp "^1.0.4"
